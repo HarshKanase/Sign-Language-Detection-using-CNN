@@ -1,0 +1,5 @@
+asl_env/
+asl_env_311/
+__pycache__/
+*.pyc
+.vscode/
